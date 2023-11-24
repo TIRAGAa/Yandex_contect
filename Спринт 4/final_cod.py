@@ -1,3 +1,10 @@
+"""
+ССЫЛКА НА КОНТЕСТ:
+https://contest.yandex.ru/contest/52720/problems/
+"""
+
+
+# A. Служба доставки
 def delivery_service(cargo_weights: list, limit: int) -> int:
     '''
     Вычислает сколько потребуется траспортных
